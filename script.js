@@ -29,7 +29,12 @@ for (var i = 0; i < hourSlots.length; i++) {
 
 function renderTasks(){
     for (var i = 0; i < hourSlots.length; i++){
-
+        var checkid = hourSlots[i].id;
+        var update = hourSlots[i];
+        var storageCheck = localStorage.getItem(checkid);
+        if (storageCheck){
+            update.innerHTML = storageCheck;
+        }
     }
 }
 
@@ -47,6 +52,7 @@ function saveTask(event){
 
 saveButton.on("click", saveTask);
 
+renderTasks();
 
 
 
