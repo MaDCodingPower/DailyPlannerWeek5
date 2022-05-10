@@ -27,7 +27,7 @@ achieve in that hour. Click save to make sure that text renders everytime you lo
 Red colored hours are hours that have already passed in the day. Green are ones in the future, 
 and gray indicates the current hour.
 
-## Link: https://github.com/shadow155131/DailyPlannerWeek5
+## Link: https://shadow155131.github.io/DailyPlannerWeek5/
 
 ## Screenshot: 
 
