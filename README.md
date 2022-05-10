@@ -8,4 +8,5 @@ upon hitting save next to the corresponding timeslot, the text will be stored in
 this text will be rendered upon reloading or loading into the page on a later date.
 
 link: https://shadow155131.github.io/HomeworkWeek5/
+screen shot: ![screenshotlive](https://user-images.githubusercontent.com/102272276/167568788-a2a317d5-f850-4194-a98a-a681515c82e3.PNG)
 
