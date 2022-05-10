@@ -1,6 +1,6 @@
 # Daily Scheduler for Week 5 Homework
 
-## This application is used to help build an daily planner. 
+> ### This application is used to help build an daily planner. 
 
 The application displays the date in the header upon loading.
 It also displays each hour from 9-5, and is color coded to show which hours have passed, which have yet to pass,
@@ -9,7 +9,7 @@ It also allows the user to click on any hour and type in a plan of activity for 
 When the user clicks a save button, the text of the corresponding hour section will be save to local
 storage to be loaded next time the user visits.
 
-### Complications
+> ### Complications
 
 Some complications I came across were mostly formatting issues in the beginning. 
 However, I decided to be ambitious in how I approached updating the local storage when
@@ -20,7 +20,7 @@ writing a different variable for each hour (cause I am lazy and that sounds tedi
 I ended up finding what I thought was a creative was to use the id of the parent to name the 
 text in local storage consistently to be saved and loaded by the same name.
 
-### How to use
+> ### How to use
 
 It is a simple application. Click any colored hour box and start typing out what you want to 
 achieve in that hour. Click save to make sure that text renders everytime you load the page.
